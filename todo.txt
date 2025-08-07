@@ -1,1 +1,2 @@
 2. Build a project 
+4. Automate tests
